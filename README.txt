@@ -1,0 +1,1 @@
+Open index.html. The uploaded rain/windshield MP4 is the full-screen background. The 13 supplied YouTube tracks are loaded into an invisible YouTube player. Only the current song title/artist appears on the small car radio. Nothing autoplays before interaction; pressing PLAY starts the current song immediately. Next/Previous also start the selected song.
